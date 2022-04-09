@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mubarock
-- 👀 I’m interested in learning more android through internships
-- 🌱 I’m currently learning kotlin for android development
-- 💞️ I’m looking to collaborate on android projects
+- 👀 I’m interested in learning front end development.
+- 🌱 I’m currently learning html and css
+- 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me Whatsapp @ 08102111432
 
 <!---
